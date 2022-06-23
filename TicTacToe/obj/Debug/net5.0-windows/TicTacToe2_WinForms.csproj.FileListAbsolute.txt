@@ -1,0 +1,42 @@
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\bin\Debug\net5.0-windows\TicTacToe2_WinForms.exe
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\bin\Debug\net5.0-windows\TicTacToe2_WinForms.deps.json
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\bin\Debug\net5.0-windows\TicTacToe2_WinForms.runtimeconfig.json
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\bin\Debug\net5.0-windows\TicTacToe2_WinForms.runtimeconfig.dev.json
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\bin\Debug\net5.0-windows\TicTacToe2_WinForms.dll
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\bin\Debug\net5.0-windows\ref\TicTacToe2_WinForms.dll
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\bin\Debug\net5.0-windows\TicTacToe2_WinForms.pdb
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.csproj.AssemblyReference.cache
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2.GameForm.resources
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2.Properties.Resources.resources
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.csproj.GenerateResource.cache
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.AssemblyInfoInputs.cache
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.AssemblyInfo.cs
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.csproj.CoreCompileInputs.cache
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.dll
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\ref\TicTacToe2_WinForms.dll
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.pdb
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.genruntimeconfig.cache
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2.Menu.resources
+E:\Users\Sergy\source\repos\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2.SettingsForm.resources
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\bin\Debug\net5.0-windows\TicTacToe2_WinForms.exe
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\bin\Debug\net5.0-windows\TicTacToe2_WinForms.deps.json
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\bin\Debug\net5.0-windows\TicTacToe2_WinForms.runtimeconfig.json
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\bin\Debug\net5.0-windows\TicTacToe2_WinForms.runtimeconfig.dev.json
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\bin\Debug\net5.0-windows\TicTacToe2_WinForms.dll
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\bin\Debug\net5.0-windows\ref\TicTacToe2_WinForms.dll
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\bin\Debug\net5.0-windows\TicTacToe2_WinForms.pdb
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2.GameForm.resources
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2.Menu.resources
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2.Properties.Resources.resources
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2.SettingsForm.resources
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.AssemblyInfo.cs
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.dll
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\ref\TicTacToe2_WinForms.dll
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.pdb
+C:\Users\USER\Desktop\УПпП проект\TicTacToe2_WinForms\obj\Debug\net5.0-windows\TicTacToe2_WinForms.genruntimeconfig.cache
